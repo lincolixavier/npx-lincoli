@@ -3,7 +3,7 @@ const open = require('open');
 
 console.log("Hello! My name is Lincoli 🤓 \n");
 
-console.log("and whitin 3 seconds you'll be redirect to my website 🚀  \n");
+console.log("and within 3 seconds you'll be redirect to my website 🚀  \n");
 
 setTimeout(() => {
   open('http://www.lincolixavier.com');

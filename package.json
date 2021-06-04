@@ -1,0 +1,30 @@
+{
+  "name": "lincoli",
+  "version": "1.0.0",
+  "description": "A gentle and fun introduction about me",
+  "main": "index.js",
+  "scripts": {
+    "lincoli": "lincoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincolixavier/npx-lincoli.git"
+  },
+  "keywords": [
+    "personal",
+    "portifolio",
+    "welcome"
+  ],
+  "bin": {
+    "lincoli": "index.js"
+  },
+  "author": "Lincoli Xavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lincolixavier/npx-lincoli/issues"
+  },
+  "homepage": "https://github.com/lincolixavier/npx-lincoli#readme",
+  "dependencies": {
+    "open": "^8.2.0"
+  }
+}

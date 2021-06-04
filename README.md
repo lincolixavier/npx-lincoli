@@ -1,4 +1,4 @@
-# This is just a Welcome package (: 
+# This is just a Welcome Package (: 
 
 ### Run to know more about it 
 > npx lincoli
